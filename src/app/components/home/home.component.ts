@@ -7,7 +7,4 @@ import { Component } from '@angular/core';
 })
 export class HomeComponent {
 
-  scrollToWork() {
-    document.getElementById('work')?.scrollIntoView({ behavior: 'smooth' });
-  }
 }

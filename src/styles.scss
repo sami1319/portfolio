@@ -554,8 +554,8 @@ article:last-child {
     margin: 0 0 2em 0;
 
     img {
+      width: 50%;
       margin: 0 auto;
-      width: auto;
     }
   }
 }
@@ -1304,5 +1304,3 @@ body>article {
   }
 
 }
-
-/* Example of some global styles in app.component.scss */
